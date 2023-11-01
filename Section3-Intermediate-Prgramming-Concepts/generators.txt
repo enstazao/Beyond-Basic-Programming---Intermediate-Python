@@ -1,3 +1,0 @@
-Keep the function state in memory so that it can retain it's state within different calls.
-Not place in memory rather generated when it is needed.
-range does not keep in memory rather it generate when it is needed.
